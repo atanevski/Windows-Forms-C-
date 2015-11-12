@@ -1,0 +1,3 @@
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB15\LAB15\bin\Debug\LAB15.exe.config
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB15\LAB15\obj\Debug\LAB15.exe
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB15\LAB15\obj\Debug\LAB15.pdb

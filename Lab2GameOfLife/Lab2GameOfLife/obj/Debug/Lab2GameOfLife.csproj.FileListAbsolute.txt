@@ -1,0 +1,12 @@
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe.config
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.csprojResolveAssemblyReference.cache
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.exe
+c:\users\zoran\documents\visual studio 2013\Projects\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.pdb
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe.config
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.exe
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.pdb
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.csprojResolveAssemblyReference.cache

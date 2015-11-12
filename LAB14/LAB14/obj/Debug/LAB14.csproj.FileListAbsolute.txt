@@ -1,0 +1,6 @@
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\bin\Debug\LAB14.exe.config
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\bin\Debug\LAB14.exe
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\bin\Debug\LAB14.pdb
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\obj\Debug\LAB14.csprojResolveAssemblyReference.cache
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\obj\Debug\LAB14.exe
+C:\Users\Tanes\Source\Repos\Визуелно програмирање\LAB14\LAB14\obj\Debug\LAB14.pdb

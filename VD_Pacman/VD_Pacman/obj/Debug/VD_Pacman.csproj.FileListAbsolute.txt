@@ -1,0 +1,8 @@
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\bin\Debug\VD_Pacman.exe.config
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\bin\Debug\VD_Pacman.exe
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\bin\Debug\VD_Pacman.pdb
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\obj\Debug\VD_Pacman.Properties.Resources.resources
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\obj\Debug\VD_Pacman.csproj.GenerateResource.Cache
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\obj\Debug\VD_Pacman.exe
+c:\users\aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\obj\Debug\VD_Pacman.pdb
+C:\Users\Aleksandar\documents\visual studio 2013\Projects\VD_Pacman\VD_Pacman\obj\Debug\VD_Pacman.csprojResolveAssemblyReference.cache
